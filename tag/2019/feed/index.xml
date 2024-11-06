@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>2019 彙整 - SHIPS 小船協作</title>
+	<atom:link href="/tag/2019/feed/" rel="self" type="application/rss+xml" />
+	<link>/tag/2019/</link>
+	<description>創作 紙船 人物設計 閃小說 比賽</description>
+	<lastBuildDate>Thu, 06 Feb 2020 05:42:18 +0000</lastBuildDate>
+	<language>zh-HK</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/02/logoico.png</url>
+	<title>2019 彙整 - SHIPS 小船協作</title>
+	<link>/tag/2019/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>關於小船恊作</title>
+		<link>/intro/</link>
+		
+		<dc:creator><![CDATA[sylviankuok]]></dc:creator>
+		<pubDate>Wed, 25 Dec 2019 17:45:08 +0000</pubDate>
+				<category><![CDATA[會務]]></category>
+		<category><![CDATA[2019]]></category>
+		<category><![CDATA[ships]]></category>
+		<guid isPermaLink="false">/?p=1163</guid>
+
+					<description><![CDATA[<p>這篇文章 <a href="/intro/">關於小船恊作</a> 最早出現於 <a href="/">SHIPS 小船協作</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>這篇文章 <a href="/intro/">關於小船恊作</a> 最早出現於 <a href="/">SHIPS 小船協作</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>香港閃小說比賽</title>
+		<link>/flash/</link>
+		
+		<dc:creator><![CDATA[sylviankuok]]></dc:creator>
+		<pubDate>Sun, 17 Nov 2019 18:51:32 +0000</pubDate>
+				<category><![CDATA[活動]]></category>
+		<category><![CDATA[2019]]></category>
+		<category><![CDATA[比賽]]></category>
+		<category><![CDATA[閃小說]]></category>
+		<guid isPermaLink="false">https://3ship.org/?p=985</guid>
+
+					<description><![CDATA[<p>這篇文章 <a href="/flash/">香港閃小說比賽</a> 最早出現於 <a href="/">SHIPS 小船協作</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[
+
+
+<p></p>
+<p>這篇文章 <a href="/flash/">香港閃小說比賽</a> 最早出現於 <a href="/">SHIPS 小船協作</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Doodle Doodle 角色設計比賽</title>
+		<link>/doodle/</link>
+		
+		<dc:creator><![CDATA[sylviankuok]]></dc:creator>
+		<pubDate>Wed, 16 Oct 2019 06:34:44 +0000</pubDate>
+				<category><![CDATA[活動]]></category>
+		<category><![CDATA[2019]]></category>
+		<category><![CDATA[doodle]]></category>
+		<category><![CDATA[比賽]]></category>
+		<guid isPermaLink="false">https://3ship.org/?p=752</guid>
+
+					<description><![CDATA[<p>這篇文章 <a href="/doodle/">Doodle Doodle 角色設計比賽</a> 最早出現於 <a href="/">SHIPS 小船協作</a>。</p>
+]]></description>
+										<content:encoded><![CDATA[<p>這篇文章 <a href="/doodle/">Doodle Doodle 角色設計比賽</a> 最早出現於 <a href="/">SHIPS 小船協作</a>。</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
