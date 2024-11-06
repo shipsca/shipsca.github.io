@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>HK &#8211; SHIPS 小船協作</title>
+	<atom:link href="/category/hk/feed/" rel="self" type="application/rss+xml" />
+	<link>/</link>
+	<description>創作 紙船 人物設計 閃小說 比賽</description>
+	<lastBuildDate>Wed, 06 Nov 2024 14:42:54 +0000</lastBuildDate>
+	<language>zh-HK</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.6.2</generator>
+
+<image>
+	<url>/wp-content/uploads/2020/02/logoico.png</url>
+	<title>HK &#8211; SHIPS 小船協作</title>
+	<link>/</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>是他也是你和我「口罩君」</title>
+		<link>/promo-msak/</link>
+		
+		<dc:creator><![CDATA[Pakho Cheung]]></dc:creator>
+		<pubDate>Tue, 17 Mar 2020 08:54:13 +0000</pubDate>
+				<category><![CDATA[HK]]></category>
+		<category><![CDATA[插畫]]></category>
+		<category><![CDATA[比賽]]></category>
+		<category><![CDATA[活動]]></category>
+		<guid isPermaLink="false">/?p=2014</guid>
+
+					<description><![CDATA[口罩君脾氣很差，它不喜歡你說話，如果你不把它安置好，就會像卡通片般憤怒得噴煙，把鏡面弄到懞懞濃濃的惹人厭倦。  [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2024/11/mask_1-1024x1024.jpg" alt="" class="wp-image-2118" srcset="/wp-content/uploads/2024/11/mask_1-1024x1024.jpg 1024w, /wp-content/uploads/2024/11/mask_1-300x300.jpg 300w, /wp-content/uploads/2024/11/mask_1-150x150.jpg 150w, /wp-content/uploads/2024/11/mask_1-768x768.jpg 768w, /wp-content/uploads/2024/11/mask_1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>口罩君脾氣很差，它不喜歡你說話，如果你不把它安置好，<br>就會像卡通片般憤怒得噴煙，把鏡面弄到懞懞濃濃的惹人厭倦。</p>
+
+
+
+<p>它的夢想是收集世界上所有細菌病毒。<br>可惜是每天它都完成不到，就要說再見。</p>
+
+
+
+<p>*本次創作我們並不覺得是最佳示範，只是有感而發，以SHIPS的方式作畫。<br>請用你更佳的創意構思你的角色，參與<br><a href="/doodle/">第一屆「Doodle Doodle(塗鴉)角色設計比賽」</a></p>
+
+
+
+<figure class="wp-block-image size-large"><img decoding="async" width="1024" height="1024" src="/wp-content/uploads/2024/11/mask_2-1024x1024.jpg" alt="" class="wp-image-2116" srcset="/wp-content/uploads/2024/11/mask_2-1024x1024.jpg 1024w, /wp-content/uploads/2024/11/mask_2-300x300.jpg 300w, /wp-content/uploads/2024/11/mask_2-150x150.jpg 150w, /wp-content/uploads/2024/11/mask_2-768x768.jpg 768w, /wp-content/uploads/2024/11/mask_2.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<figure class="wp-block-image size-large"><img fetchpriority="high" decoding="async" width="1024" height="1024" src="/wp-content/uploads/2024/11/mask_1-1024x1024.jpg" alt="" class="wp-image-2118" srcset="/wp-content/uploads/2024/11/mask_1-1024x1024.jpg 1024w, /wp-content/uploads/2024/11/mask_1-300x300.jpg 300w, /wp-content/uploads/2024/11/mask_1-150x150.jpg 150w, /wp-content/uploads/2024/11/mask_1-768x768.jpg 768w, /wp-content/uploads/2024/11/mask_1.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
